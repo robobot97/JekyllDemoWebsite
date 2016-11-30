@@ -1,2 +1,3 @@
-# JekyllDemoWebsite
-A static website created using Jekyll. Used as the demo for the project website for COMP203P module.
+#ATOS Gamification
+
+ATOS Gamification is a project we are developing for our COMP203P module. For more information, click [here](https://github.com/justinrol/ATOS-Gamification).

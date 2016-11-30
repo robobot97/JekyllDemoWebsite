@@ -1,0 +1,22 @@
+# Members
+
+- name: Zac Luong
+  role: Stuff
+  img: /img/zac.png
+  github: ZacVND
+  bio: Zac is an Undergraduate student at UCL, studying Computer Science.
+  visible: true
+   
+- name: Arjun Khurana
+  role: Stuff
+  img: /img/arjun.png
+  github: robobot97
+  bio: Arjun is an Undergraduate student at UCL, studying Computer Science.
+  visible: true
+  
+- name: Justin Kim
+  role: Stuff
+  img: /img/justin.png
+  github: justinrol
+  bio: Justin is an Undergraduate student at UCL, studying Computer Science. 
+  visible: true
